@@ -60,7 +60,7 @@ jobs:
       - name: Checkout rooted-graphene script repository
         uses: actions/checkout@v4
         with:
-          repository: schnatterer/rooted-graphene
+          repository: noto10/rooted-graphene
           ref: ${{ github.event.inputs.rooted-graphene-version || inputs.rooted-graphene-version || 'main' }} 
           fetch-depth: 1 # Efficent checkout, we only need the one ref
       - name: Checkout OTA repository for updating OTA server on GitHub Pages
