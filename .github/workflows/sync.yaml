@@ -1,7 +1,8 @@
 name: Auto-Sync Upstream
 on:
   schedule:
-    - cron: '0 6 * * *' # Runs daily at 6 AM UTC
+    - cron: '0,15,30,45 * * * *' # Runs daily at 6 AM UTC
+#    - cron: '0 6 * * *' # Runs daily at 6 AM UTC
   workflow_dispatch:    # Allows manual trigger from the Actions tab
 
 jobs:
