@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026081301/frankel-2026081301-4c42ce0-magisk-v30.7.zip",
+    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026081301/frankel-2026081301-4c42ce0-magisk-v30.7.zip.csig"
+  }
+}
