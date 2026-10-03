@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026092501/caiman-2026092501-8887d86-rootless.zip",
-    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026092501/caiman-2026092501-8887d86-rootless.zip.csig"
+    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026100201/caiman-2026100201-7f8e06b-rootless.zip",
+    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026100201/caiman-2026100201-7f8e06b-rootless.zip.csig"
   }
 }
