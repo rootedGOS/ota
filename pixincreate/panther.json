@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026100201/panther-2026100201-7f8e06b-pixincreate-v30.7.zip",
-    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026100201/panther-2026100201-7f8e06b-pixincreate-v30.7.zip.csig"
+    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026100601/panther-2026100601-5e63e44-pixincreate-v30.7.zip",
+    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026100601/panther-2026100601-5e63e44-pixincreate-v30.7.zip.csig"
   }
 }
