@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026101601/blazer-2026101601-31735ed-rootless.zip",
-    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026101601/blazer-2026101601-31735ed-rootless.zip.csig"
+    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026102101/blazer-2026102101-31735ed-rootless.zip",
+    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026102101/blazer-2026102101-31735ed-rootless.zip.csig"
   }
 }
