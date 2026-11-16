@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026110801/blazer-2026110801-9e08054-pixincreate-v31.0-3.zip",
-    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026110801/blazer-2026110801-9e08054-pixincreate-v31.0-3.zip.csig"
+    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026111301/blazer-2026111301-c296b20-pixincreate-v31.0-3.zip",
+    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026111301/blazer-2026111301-c296b20-pixincreate-v31.0-3.zip.csig"
   }
 }

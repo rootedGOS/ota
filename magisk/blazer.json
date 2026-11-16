@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026110801/blazer-2026110801-9e08054-magisk-v30.7.zip",
-    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026110801/blazer-2026110801-9e08054-magisk-v30.7.zip.csig"
+    "location_ota": "https://github.com/rootedGOS/ota/releases/download/2026111301/blazer-2026111301-c296b20-magisk-v31.1.zip",
+    "location_csig": "https://github.com/rootedGOS/ota/releases/download/2026111301/blazer-2026111301-c296b20-magisk-v31.1.zip.csig"
   }
 }
